@@ -50,3 +50,8 @@ Issues and pull requests are welcome. Ideas: polygon clipping, alternative-route
 
 ## License
 MIT, see `LICENSE`.
+
+below is the sample preview of the dashboard
+
+<img width="777" height="903" alt="image" src="https://github.com/user-attachments/assets/ce7c312b-20b9-44a7-b759-3531c20e2beb" />
+
